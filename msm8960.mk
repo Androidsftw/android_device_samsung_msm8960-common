@@ -58,10 +58,9 @@ PRODUCT_PACKAGES += \
     power.msm8960 \
     memtrack.msm8960
 
-# GalaxyS3Settings
+# DeviceSettings
 PRODUCT_PACKAGES += \
     GalaxyS3Settings \
-    SamsungServiceMode
 
 # Misc
 PRODUCT_PACKAGES += \
